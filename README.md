@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td valign="middle">
-      <h2>👋 Hi, I'm Shandon Vasquez</h2>
+      <h2> Hi, I'm Shandon Vasquez</h2>
       <b>QA Automation Engineer | SDET | Support Engineer</b>
       <br><br>
       <p align="justify">
