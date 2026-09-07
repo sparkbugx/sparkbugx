@@ -15,3 +15,4 @@ I am deeply passionate about the intersection of hardware and software. I specia
 * 💻 Hardware and ergonomics enthusiast; I write my scripts on a Kinesis Freestyle Edge RGB+ split keyboard.
 * 🏍️ When I'm not coding, I ride my motorcycle everywhere and maintain a planted freshwater aquarium.
 
+![Profile Image](cc11cb0228c63aecf6aa2bdec5569cf7.jpg)
