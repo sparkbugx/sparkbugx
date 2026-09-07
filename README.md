@@ -15,9 +15,9 @@
 </table>
 
 **🛠️ Tech Stack & Tools**
-* **QA & Automation:** Playwright, TypeScript, JavaScript, REST API validation (`.http` files), Android Studio for mobile web testing, iOS device manual testing, test case creation, and generating highly detailed QA reports.
-* **Development & AI Integration:** HTML, TypeScript, JavaScript, SQL, Angular 17+ (Signals, Standalone Components), and WebStorm IDE integrated with OpenCode CLI for AI-assisted scripting.
-* **Infrastructure & Environment:** VMware, Dockploy, Docker, Ubuntu VPS.
+* **QA & Automation:** **Playwright**, **TypeScript**, **JavaScript**, REST API validation (**`.http`** files), **Android Studio** for mobile web testing, iOS device manual testing, test case creation, and generating highly detailed QA reports.
+* **Development & AI Integration:** **HTML**, **SQL**, **Angular 17+** (Signals, Standalone Components), and **WebStorm IDE** integrated with **OpenCode CLI** for AI-assisted scripting.
+* **Infrastructure & Environment:** **VMware**, **Dockploy**, **Docker**, **Ubuntu VPS**.
 * **Professional Certifications:** Google IT Support Professional, Google Cybersecurity.
 
 **⚡ About Me**
