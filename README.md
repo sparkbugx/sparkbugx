@@ -7,10 +7,10 @@
       <p align="justify">
       I am deeply passionate about the intersection of hardware and software. I specialize in building test automation frameworks from the ground up, ensuring code quality, and optimizing workflows. With a solid foundation in technical support and cybersecurity, I approach quality assurance with a comprehensive understanding of the entire software development lifecycle.
       </p>
-    </td>
+    <!-- </td>
     <td valign="middle" align="center">
       <img src="new_image.jpg" alt="Profile Image" width="250">
-    </td>
+    </td> -->
   </tr>
 </table>
 
