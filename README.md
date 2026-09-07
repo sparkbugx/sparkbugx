@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Shandon Vasquez
 
-<!--
-**sparkbugx/sparkbugx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**QA Automation Engineer | IT & Software Support Specialist**
 
-Here are some ideas to get you started:
+I am deeply passionate about the intersection of hardware and software. I specialize in building test automation frameworks from the ground up, ensuring code quality, and optimizing workflows. With a solid foundation in technical support and cybersecurity, I approach quality assurance with a comprehensive understanding of the entire software development lifecycle.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🛠️ Tech Stack & Tools**
+* **QA & Automation:** Playwright, TypeScript, REST API validation (`.http` files)
+* **Backend & Frontend:**
+* **Infrastructure & Environment:** Ubuntu VPS,JetBrains IDEs
+* **Professional Certifications:** Google IT Support Professional, Google Cybersecurity
+
+**⚡ About Me**
+* 🔭 Currently working as a QA Developer.
+* 💻 Hardware and ergonomics enthusiast; I write my scripts on a Kinesis Freestyle Edge RGB+ split keyboard.
+* 🏍️ When I'm not coding, I ride my motorcycle everywhere and maintain a planted freshwater aquarium.
+
